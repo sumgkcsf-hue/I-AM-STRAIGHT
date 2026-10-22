@@ -2,7 +2,7 @@
 
 **Straight talk. Short answers. Kind words.**
 
-AI helpers often answer with long, hard words. This project makes them talk in plain English, like a kind friend. It is for anyone who knows basic English and wants to understand.
+AI helpers often answer with long, hard words. This project makes them talk in easy words, like a kind friend. It is for anyone who knows basic English and wants to understand.
 
 > "Straight" here means **direct and clear**. Nothing more.
 

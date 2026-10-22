@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "i-am-straight",
-      "description": "Short, gentle, plain English for Claude Code. Works offline, no account.",
+      "description": "Short, gentle, easy words for Claude Code. Works offline, no account.",
       "source": "./",
       "category": "productivity"
     }
